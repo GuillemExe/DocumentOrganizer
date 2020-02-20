@@ -1,0 +1,14 @@
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\bin\Debug\SegmentadorDocumentos.exe.config
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\bin\Debug\SegmentadorDocumentos.exe
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\bin\Debug\SegmentadorDocumentos.pdb
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\SegmentadorDocumentos.csprojAssemblyReference.cache
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\MainWindow.g.cs
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\App.g.cs
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\SegmentadorDocumentos_MarkupCompile.cache
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\SegmentadorDocumentos_MarkupCompile.lref
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\MainWindow.baml
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\SegmentadorDocumentos.g.resources
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\SegmentadorDocumentos.Properties.Resources.resources
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\SegmentadorDocumentos.csproj.GenerateResource.cache
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\SegmentadorDocumentos.exe
+C:\Users\Guillem\source\repos\SegmentadorDocumentos\SegmentadorDocumentos\obj\Debug\SegmentadorDocumentos.pdb
